@@ -1,0 +1,16 @@
+{
+  "name": "omoponfhir-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.1.0",
+    "mkdirp": "^0.5.1",
+    "node-fetch": "^2.6.0"
+  }
+}
